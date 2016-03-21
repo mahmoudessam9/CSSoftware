@@ -2,8 +2,13 @@
 public class Example {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World"); //This print hello world
+		PrintHello();
 
+	}
+	public static void PrintHello()
+	{
+		System.out.println("Hello World"); //This print hello world
+	}
 	}
 
 }
